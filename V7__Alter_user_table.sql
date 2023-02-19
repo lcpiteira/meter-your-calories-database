@@ -1,0 +1,1 @@
+ALTER TABLE mycalories.FOOD ADD CONSTRAINT food_unique_key UNIQUE(NAME);
